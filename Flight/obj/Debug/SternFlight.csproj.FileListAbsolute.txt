@@ -1,0 +1,9 @@
+C:\Users\Noah\Desktop\Flights\Flight\bin\Debug\SternFlight.exe.config
+C:\Users\Noah\Desktop\Flights\Flight\bin\Debug\SternFlight.exe
+C:\Users\Noah\Desktop\Flights\Flight\bin\Debug\SternFlight.pdb
+C:\Users\Noah\Desktop\Flights\Flight\obj\Debug\SternFlight.csprojAssemblyReference.cache
+C:\Users\Noah\Desktop\Flights\Flight\obj\Debug\SternFlight.Form1.resources
+C:\Users\Noah\Desktop\Flights\Flight\obj\Debug\SternFlight.Properties.Resources.resources
+C:\Users\Noah\Desktop\Flights\Flight\obj\Debug\SternFlight.csproj.GenerateResource.cache
+C:\Users\Noah\Desktop\Flights\Flight\obj\Debug\SternFlight.exe
+C:\Users\Noah\Desktop\Flights\Flight\obj\Debug\SternFlight.pdb
